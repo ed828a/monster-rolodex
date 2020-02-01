@@ -60,7 +60,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
+The project was built assuming it is hosted at /monster-rolodex/.
+You can control this with the homepage field in your package.json.
 
+The build folder is ready to be deployed.
+To publish it at https://ed828a.github.io/monster-rolodex , run:
+
+  npm run deploy
+
+Find out more about deployment here:
+
+  bit.ly/CRA-deploy
+  
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
